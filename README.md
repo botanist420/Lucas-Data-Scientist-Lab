@@ -1,4 +1,5 @@
 # Lucas-Data-Scientist-Lab
-the road to become a pro Data Scientist using python, SQL and superset
-This one is just for testing
-jjjjsakldfjlkasdjf;lksadjflkjsad;lfjsadf
+
+This Project is for me to pratice more about the git workflow
+
+In order to become a better me as a Data Scientist.
