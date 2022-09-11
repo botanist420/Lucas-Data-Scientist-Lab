@@ -89,3 +89,5 @@ It means that two rows have been copied. Let’s check the persons table.
 ```sql
 SELECT * FROM persons;
 ```
+
+## 6. Compare data type py vs psql
